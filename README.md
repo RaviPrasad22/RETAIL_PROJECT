@@ -1,4 +1,3 @@
 # RETAIL_PROJECT
-Important tool for web developer . 
-Readme-edits
+Important tool for web developer .
 VINAYPROJECT2
